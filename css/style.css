@@ -1,0 +1,377 @@
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+  .ul li{
+    background-color: #fff;
+  }
+  header {
+    background-image: url(../img/Traveland.png);
+    width: 1600px;
+    height: 900px;
+  }
+  .header {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 47px;
+    align-items: center;
+  }
+  .gaps{
+    display: flex;
+    gap: 50px;
+    color: white;
+  }
+  .btn {
+    border-radius: 5px;
+    background: #c9453b;
+    padding: 14px 36px;
+    color: white;
+  }
+ 
+  .hero {
+    margin-top: 208px;
+    margin-left: 160px;
+  }
+  .section {
+    color: #fff;
+    font-family: Gelasio;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 78px */
+  }
+  .now {
+    width: 804px;
+    height: 154px;
+  }
+  .phone {
+    color: #fff;
+    font-style: normal;
+    line-height: 160%;
+    width: 458px;
+    margin-top: 30px;
+  }
+  .email {
+    border-radius: 5px;
+    background: #c9453b;
+    padding: 18px 47px;
+    color: white;
+  }
+  .book {
+    margin-top: 40px;
+  }
+  .bank2 {
+    color: #000;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    text-align: center;
+  }
+  .githup {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    width: 735px;
+  }
+  .word {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .headsa {
+    margin-top: 140px;
+  }
+  .cards {
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+    margin-top: 50px;
+  
+  }
+  .card-1 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background: #fff;
+  }
+  .card-2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background: #fff;
+  }
+  .card-3 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background: #fff;
+  }
+  .turk{
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    margin-top: 35px;
+  }
+  
+  .fbr {
+    color: #000;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    opacity: 0.6;
+  }
+    .figma{
+        padding: 109px 0px;
+    }
+  .pen {
+    color: #000;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    text-align: center;
+    margin-top: 140px;
+  }
+  .pencil {
+    width: 656px;
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    opacity: 0.6;
+  }
+  .notebok {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .money{
+    display: flex;
+    gap: 50px;
+  }
+  .cancel {
+    display: flex;
+  }
+  .collector {
+    display: flex;
+    gap: 73px;
+    margin-top: 60px;
+  }
+  .flex {
+    display: flex;
+    gap: 50px;
+  }
+  .wrap {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  .text {
+    text-align: center;
+    margin-top: 140px;
+    margin-bottom: 56px;
+  }
+  .number {
+    color: #000;
+    text-align: center;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+  }
+.footer .footer1{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 155px 40px 155px;
+    line-height: 34px;
+}
+.footer .footer1 a{
+    color: #000;
+}
+.cards{
+  display: flex;
+}
+.kattasi {
+  display: flex;
+  gap: 32px;
+  padding: 70px;
+  justify-content: center;
+  margin-bottom: 142px;
+}
+.portsey {
+  display: flex;
+  flex-flow: column;
+  display: flex;
+  justify-content: space-between;
+  display: flex;
+  flex-flow: column;
+}
+.star {
+  display: flex;
+  align-items: center;
+}
+.case {
+  display: flex;
+  gap: 27px;
+  align-items: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+.space {
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 510;
+  line-height: 150%;
+  margin-top: 8px;
+}
+.china {
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  opacity: 0.6;
+}
+.four {
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.night {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  opacity: 0.6;
+}
+
+.span {
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+}
+.h2clasi {
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.valley {
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  opacity: 0.6;
+  width: 244px;
+}
+.peaks{
+  width: 470px;
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  opacity: 0.6;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 78px;
+}
+.footer-1 {
+  margin-right: 107px;
+}
+.footer-2 {
+  margin-right: 121px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.96px;
+}
+.footer-3 {
+  margin-right: 133px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.96px;
+}
+.vladki {
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  letter-spacing: 0.96px;
+  margin-bottom: 20px;
+}
+.national {
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  letter-spacing: 0.96px;
+  margin-top: 40px;
+}
+.class {
+  margin-bottom: 20px;
+}
+.barca {
+  margin-bottom: 20px;
+}
+
+.now {
+  margin-bottom: 52px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 1.2px;
+}
+input {
+  border-radius: 5px;
+  border: 1px solid #000;
+  box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.15);
+  
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0.96px;
+  border: none;
+}
+.btn {
+  background-color: #c9453b;
+  padding: 14px 32px;
+  border-radius: 5px;
+  color: white;
+}
+.footer-4 {
+  display: flex;
+  gap: 35px;
+  align-items: center;
+}
